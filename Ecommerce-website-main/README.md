@@ -19,11 +19,6 @@ It is clone of Astore Ecommerce website with all basic functionalities of Ecomme
 - Cart: The cart displays the items, their individual prices, and the total price of all products in the cart.
 - Search: A search bar allows users to search for specific products.
 
-## Demo
-https://sajidbhatti786.github.io/Ecommerce-website/html/index.html
-
-## Video
-[![Video Demo](https://drive.google.com/thumbnail?id=15bfnc0NbPXK9Y_X3okvU7Ym8zjIO-Us-)](https://drive.google.com/uc?id=15bfnc0NbPXK9Y_X3okvU7Ym8zjIO-Us-)
 
 
 
@@ -41,11 +36,6 @@ https://sajidbhatti786.github.io/Ecommerce-website/html/index.html
    
 ## Contributing
 
-If you want to contribute or colloborate or want to seek any services, guidence or help connect me through any channel.
-## Connect with me
-[![Facebook](https://img.shields.io/badge/Facebook-Follow-blue)](https://www.facebook.com/profile.php?id=100026991042689&mibextid=ZbWKwL)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/sajid-bhatti-b2436b24a)
-[![GitHub](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=social)](https://github.com/SajidBhatti786)
 
 ## Keywords:
 - Ecommerce website
